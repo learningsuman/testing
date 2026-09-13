@@ -1,3 +1,2 @@
 # testing
-testing branch ruleset
-Hello 
+testing branch rule
